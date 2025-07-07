@@ -17,7 +17,26 @@ Ce projet vise à :
 - Proposer une base solide pour des extensions futures (application mobile, dashboard admin, etc.)
 
 ---
+## 🧠 Approche de conception MERISE
+##### En tant que concepteur.trice de bases de données, les actions réalisées sont les suivantes :
 
+##### 🔍 Analyse fonctionnelle
+###### Étude du fonctionnement du restaurant à partir de la documentation fournie.
+
+###### Identification des processus clés : gestion des employés, des plats, des commandes, des paiements, des stocks et des réservations.
+
+## 🧩 Identification des entités et relations
+#### Entités principales : Employé, Plat, Commande, Facture, Ingrédient, Fournisseur, Réservation
+
+#### Relations :
+
+Un employé peut enregistrer plusieurs commandes.
+
+Une commande donne lieu à une facture.
+
+Un plat est composé de plusieurs ingrédients.
+
+Un ingrédient peut provenir de plusieurs fournisseurs.
 ## 🧠 Modélisation de la base de données
 
 ### 1.Dicitionnaire de données

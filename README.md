@@ -4,9 +4,8 @@ Bienvenue dans le dépôt officiel du projet **Ombre_Afrique_Abeche_Restaurant**
 Ce projet s'appuie sur une base de données relationnelle MariaDB et propose une structure claire pour gérer les **employés**, **commandes**, **factures**, **plats**, **stocks**, et **réservations**.
 
 
-![Capture d’écran du 2025-07-07 11-20-36](https://github.com/user-attachments/assets/52bbd738-1d46-4915-8360-b2a2616112b8)
+![Capture d’écran du 2025-07-07 11-20-36](https://github.com/user-attachments/assets/52bbd738-1d46-4915-8360-b2a2616112b8)![Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)![Capture d’écran du 2025-07-07 11-20-55](https://github.com/user-attachments/assets/a8f06a2e-bd49-48c0-9c85-74aadfb9ecc1)
 
-![Capture d’écran du 2025-07-07 11-20-45](https://github.com/user-attachments/assets/a27792fb-0ed8-4dc0-83fa-a7ebeb64bb45)
 
 ---
 
@@ -37,8 +36,6 @@ Ce projet vise à :
 
 ### 4. 🧩 MPD – Modèle Physique de Données (Script SQL)  
 
-![Capture d’écran du 2025-07-05 11-43-16](https://github.com/user-attachments/assets/0adfd17e-23d8-4182-84dc-7e23cb9b44b5)
-
 ---
 
 ## 🗄️ Structure de la base de données (extraits)
@@ -52,17 +49,27 @@ Ce projet vise à :
 | `ingredient`    | Stock des produits utilisés                      |
 | `fournisseur`   | Sources des produits alimentaires                |
 | `reserver`      | Système de réservation (non encore utilisé)      |
+|![Capture d’écran du 2025-07-07 11-36-09](https://github.com/user-attachments/assets/7bec7b72-b424-41f3-9c17-720d4adbb7f8)|
 
 ---
 
 ## 🧾 Données clés extraites
 
-- **Nombre total d’employés** : 12  
-- **Total des factures analysées** : 11  
-- **Modes de paiement** : espèces, carte bancaire, Mobile Money  
-- **Commandes** : sur place, à emporter, livraison  
-- **Plats disponibles** : 12 (recettes locales et modernes)  
+- **Nombre total d’employés** : 12
+-  ![Capture d’écran du 2025-07-07 13-53-45](https://github.com/user-attachments/assets/a769b0da-41c4-4255-9f53-e5de245c1987)
+
+- **Total des factures analysées** : 11
+- ![Capture d’écran du 2025-07-05 11-38-51](https://github.com/user-attachments/assets/9dff9be5-1a2b-462f-8595-5ad3a3db3f0a)
+
+- **Modes de paiement** : espèces, carte bancaire, Mobile Money
+- **Commandes** : sur place, à emporter, livraison
+- ![Capture d’écran du 2025-07-07 13-57-11](https://github.com/user-attachments/assets/f3bcfcbc-cb93-4642-b5c7-75783157c4b4)
+
+- **Plats disponibles** : 12 (recettes locales et modernes)
+  ![Capture d’écran du 2025-07-07 14-00-05](https://github.com/user-attachments/assets/f8aed715-b66a-414a-a6be-afeef46528cb)
+
 - **Ingrédients suivis en stock** : 12 types (mil, sorgho, viande, etc.)
+![Capture d’écran du 2025-07-07 13-56-14](https://github.com/user-attachments/assets/e1ed9419-ef9d-456f-8d39-d15ff2be9706)
 
 ---
 
@@ -75,13 +82,6 @@ Ce projet vise à :
 - Optimisation des stocks et fournisseurs
 
 ---
-
-## 📂 Arborescence du projet
-
-
-
-
-
 ---
 
 ## 🔧 Technologies utilisées
@@ -96,7 +96,7 @@ Ce projet vise à :
 
 👨‍💻 Hissein Haroun Daoud  
 📧 Contact : hisseindaoud6627@gmail.com  
-🌍 Projet réalisé dans le cadre d’une formation en Developpement Web et Mobil– Abéché, Tchad WenakLabs
+🌍 Projet réalisé dans le cadre d’une formation en Developpement Web et Mobil– Abéché, Tchad WenakLabs et SimplonAfrica
 
 ---
 

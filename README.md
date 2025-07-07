@@ -72,16 +72,6 @@ Ce projet vise à :
 ![Capture d’écran du 2025-07-07 13-56-14](https://github.com/user-attachments/assets/e1ed9419-ef9d-456f-8d39-d15ff2be9706)
 
 ---
-
-## 🧮 Exemple d'analyse disponible dans `/docs/rapport.md` ou `/docs/rapport.pdf`
-
-- Analyse des commandes
-- Fréquence des plats
-- Répartition des paiements
-- Statistiques salariales des employés
-- Optimisation des stocks et fournisseurs
-
----
 ---
 
 ## 🔧 Technologies utilisées
@@ -91,6 +81,25 @@ Ce projet vise à :
 - **Modélisation UML (AnalyseSI)**
 
 ---
+## 🛠️ Étapes d’installation
+### 1. 📁 Cloner le dépôt GitHub
+```
+     git clone https://github.com/ton-utilisateur/Ombre_Afrique_Abeche_Restaurant.git
+     cd Ombre_Afrique_Abeche_Restaurant
+```
+## 🗃️ Créer la base de données dans MariaDB
+### 2.Connecte-toi à MariaDB :
+```
+sudo mariadb -u root -p
+
+```
+### 3.Crée la base de données :
+```
+CREATE DATABASE ombr_afrique_dabeche CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+EXIT;
+
+```
+
 
 ## 📝 Auteurs
 
